@@ -2,7 +2,7 @@
 ## INTRODUCTION STRUCTURES PROGRAMING
 #### Integrantes:
  ´´
-	haber que pasa 
+akaklamdsm 
  ´´
  
 * [Arana Bejar](https://github.com/Andrewbejar/Programming-2)
