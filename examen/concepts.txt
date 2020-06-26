@@ -1,0 +1,29 @@
+Programming Exam 
+
+
+a. What is a Function? (3 points)
+
+	A function is a blog of code that is interlaced with the blog of main code, the functions
+        help you to have a smaller and more ordered code. The function is used to have your program 
+	with smaller problems to be able to obtain the solution in general.
+
+b. What is the Variable Scope? (3 points)
+
+ Is a varible when is you use only in this code blog of a fuction or all tha code, depends only how to declared
+
+c. Explain the difference between a Global, Local and Static Variable in C
+Programming. (3 points)
+
+	Global variables are defined before the main function, they can be called and used 
+	throughout the code from any function.
+	Local variables can only be used within the function that was declared. 
+	that use "static" always have that same value that you declared 
+
+d. Explain what is a pointer (3 points)
+	The pointer is a varible that you can obtain tha mamory direction that use by be able to change
+	the value of the varible 
+
+e. Explain dynamic memory allocation (3 points)
+	the memory allocation is when you you can get some memory space you need 
+	to be able to use your variables, so your code could be more efficient and 
+	not waste as much memory during the execution of the program.
