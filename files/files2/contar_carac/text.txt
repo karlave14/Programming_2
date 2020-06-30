@@ -1,0 +1,2 @@
+Es te programa cuenta la cantidad de palabras y caracteres que hay,
+en este texto

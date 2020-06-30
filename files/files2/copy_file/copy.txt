@@ -1,0 +1,3 @@
+En este programa se debe copiar este texto al archivo de escritura.txt, el progrma fue sacado de 
+- https://codeforwin.org/2018/02/c-program-to-copy-file.html el codigo fue cambiado para su mejor 
+comprenson
