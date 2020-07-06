@@ -1,0 +1,7 @@
+hola
+este
+es 
+el 
+archivo 
+manejando 
+python. 
